@@ -1,7 +1,7 @@
 name: ejpeg.biz
 favicon: null
-layout_spectrum: 0.38158574840053916
-typography_spectrum: 0.6087482792790979
+layout_spectrum: 1
+typography_spectrum: 0.12971
 cta:
   domain: null
   bucket: null
