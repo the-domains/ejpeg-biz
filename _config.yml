@@ -2,12 +2,13 @@ name: ejpeg.biz
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.12971
+title: The projects of ejpeg
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-1833430-5
   facebook: null
   twitter: null
 opengraph:
